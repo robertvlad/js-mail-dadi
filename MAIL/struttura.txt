@@ -8,3 +8,11 @@ ESERCIZIO MAIL
     3.3 - Dare conferma all'utente se l'email corrisponde
         3.3.1 - Creare una variabile di controllo furoi dal FOR
         3.3.2 - Effettuare il controllo nell'array
+
+BONUS 
+
+1 - Creare campo input
+2 - Creare button
+3 - Collegare il click del pulsante con il check dell'email
+4 - Creare un tag html che contiene il messaggio dell'esito
+5 - Mostare a schermo il risultato nel tag html
