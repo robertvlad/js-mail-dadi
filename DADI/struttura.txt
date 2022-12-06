@@ -1,0 +1,6 @@
+ESERCIZIO DADI
+
+1 - Generare un numero per il pc
+2 - Generare un numero per lutente
+3 - Controllare quale numero è maggiore
+4 - Mostrare chi ha vinto
